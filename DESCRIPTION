@@ -1,9 +1,10 @@
 Package: finViz
 Type: Package
-Title: What the package does (short line)
-Version: 1.0
+Title: A package for visualization of financial data
+Version: 0.1
 Date: 2014-08-26
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
+Author: Stephan Sprenger
+Maintainer: Stephan Sprenger <stephan.sprenger@gmx.de>
+Description: This package is a collection of functions for plotting financial data. 
+    The main purpose is to display the performance of financial assets.
 License: What license is it under?
