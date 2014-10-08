@@ -8,3 +8,4 @@ Maintainer: Stephan Sprenger <stephan.sprenger@gmx.de>
 Description: This package is a collection of functions for plotting financial
     data. The main purpose is to display the performance of financial assets.
 License: What license is it under?
+Depends: zoo, ggplot2, scales
