@@ -1,17 +1,11 @@
 Package: finViz
 Type: Package
-Title: A package with helper functions for financial data
-Version: 0.11
-Date: 2015-03-30
+Title: A package for visualization of financial data
+Version: 0.1
+Date: 2014-08-26
 Author: Stephan Sprenger
 Maintainer: Stephan Sprenger <stephan.sprenger@gmx.de>
-Description: This package is a collection of small helper functions for financial
-    data. This includes summarizing and visualizing this data.
-License: MIT
-Depends:
-    zoo,
-    ggplot2,
-    scales,
-    dplyr,
-    lubridate,
-    reshape2
+Description: This package is a collection of functions for plotting financial
+    data. The main purpose is to display the performance of financial assets.
+License: What license is it under?
+Depends: zoo, ggplot2, scales
